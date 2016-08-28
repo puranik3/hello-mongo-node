@@ -7,3 +7,4 @@ Simply clone this project and install app dependencies to get started.
 ```git clone https://github.com/puranik3/hello-mongo-node.git```  
 ```cd hello-mongo-node```  
 ```npm install``` 
+```npm start```  
