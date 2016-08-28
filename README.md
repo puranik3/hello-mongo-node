@@ -6,5 +6,5 @@ You can carry on learning using the docs on Mongo DB server there. You will also
 Simply clone this project and install app dependencies to get started.  
 ```git clone https://github.com/puranik3/hello-mongo-node.git```  
 ```cd hello-mongo-node```  
-```npm install``` 
+```npm install```  
 ```npm start```  
