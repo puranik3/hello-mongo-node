@@ -1,0 +1,23 @@
+{
+  "name": "hello-mongo-node",
+  "version": "1.0.0",
+  "description": "Project to learn how to use mongodb with node",
+  "main": "index.js",
+  "keywords": [
+	"node.js",
+	"node",
+	"mongo",
+	"MongoDB",
+	"database",
+	"nosql"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "Prashanth Puranik",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.8"
+  }
+}
